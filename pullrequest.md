@@ -1,8 +1,4 @@
-# 🚀 **Pull Request Template**
-
----
-
-## 📋 **Description**
+# 🚀 📋 **Description for your PR**
 
 ✏️ **Summary:**
 
@@ -68,24 +64,6 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 ---
 
-## 📸 **Screenshots (if applicable):**
-
-Please add screenshots of the UI changes made to help the reviewers understand the visual impact of the change.
-
-| Before | After |
-|--------|-------|
-| ![Before Screenshot](URL_TO_BEFORE_SCREENSHOT) | ![After Screenshot](URL_TO_AFTER_SCREENSHOT) |
-
-## 🎥 **GIFs (if applicable):**
-
-If your change affects the UI, please add a GIF showing the before and after of the UI changes.
-
-![Before GIF](URL_TO_BEFORE_GIF)
-
-![After GIF](URL_TO_AFTER_GIF)
-
----
-
 ## ♿ **UI Accessibility Checklist**
 
 If your PR includes UI changes, please utilize this checklist:
@@ -96,6 +74,16 @@ If your PR includes UI changes, please utilize this checklist:
 - [ ] 🎨 **Color contrast tested?**
 
 For more info, check out the [Forem Accessibility Docs](https://docs.forem.com/).
+
+---
+
+## 📸 **Screenshots (if applicable):**
+
+Please add screenshots of the UI changes made to help the reviewers understand the visual impact of the change.
+
+| Before | After |
+|--------|-------|
+| ![Before Screenshot](URL_TO_BEFORE_SCREENSHOT) | ![After Screenshot](URL_TO_AFTER_SCREENSHOT) |
 
 
 ## 📝 **Additional context**
